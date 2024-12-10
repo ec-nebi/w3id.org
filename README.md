@@ -92,7 +92,7 @@ following steps:
    2. If they do not yet exist, add `.htaccess` and `README.md` files to the directory.
       * `.htaccess` contains redirection rules, for computer to read and perform.
       * `README.md` contains more identifier info and contact info, for human to read.
-      * See [w3id.org/examples](https://github.com/perma-id/w3id.org/tree/master/examples)
+      * See [w3id.org\/examples](https://github.com/perma-id/w3id.org/tree/master/examples)
       for examples of `.htaccess` and `README.md`.
 3. Submit a _Pull Request_ for your changes.
 
